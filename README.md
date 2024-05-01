@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @RaihanAizvan.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on programming.
+
 
 <!---
 RaihanAizvan/RaihanAizvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

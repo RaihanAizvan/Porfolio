@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on programming.
-- 📫 How to reach me in coding.
 
 <!---
 RaihanAizvan/RaihanAizvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
